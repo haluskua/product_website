@@ -238,6 +238,10 @@ nav .order {
   z-index: 0;
 }
 
+.soon img {
+  width: 35%;
+}
+
 .soon img,
 .soon .circle,
 .soon h2 {
@@ -254,6 +258,7 @@ nav .order {
 
 .soon h2 {
   top: 25%;
+  font-size: 6rem;
 }
 
 footer {

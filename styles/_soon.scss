@@ -3,6 +3,9 @@
     min-height: 80vh;
     position: relative;
     z-index: 0;
+    img {
+      width: 35%;
+    }
     img,
     .circle,
     h2 {
@@ -16,6 +19,7 @@
     }
     h2 {
       top: 25%;
+      font-size: 6rem;
     }
   }
   
